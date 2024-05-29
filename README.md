@@ -100,6 +100,6 @@ To run the program, you need an 8085 emulator or assembler. You can use emulator
 
 1. Download and install e8085.exe from [here](https://emu8086-microprocessor-emulator.en.softonic.com/).
 2. Clone this repository to your local machine.
-3. Open e8085.exe and load the `Zadaca 2 code.asm` file.
+3. Open e8085.exe and load the `Zadaca 4 code.asm` file.
 4. Assemble the code by pressing the Assemble button.
 5. Run the program by pressing the Run button or by pressing F10.
