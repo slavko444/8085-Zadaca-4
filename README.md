@@ -68,6 +68,7 @@ JNZ VRTI ;се додека бројачот е различен од 0.
 
  ![Screenshot (1)](https://github.com/slavko444/8085-Zadaca-2/blob/main/Diagrpng)
  
+**Develop by:**
 
 [Slavko Srebrenoski ](https://github.com/slavko444)
 
